@@ -3,7 +3,7 @@
        alt="Background"/>
 
 Follow me on:
-  <br> [**Instagram**](https://instagram.com/@marvelahrun) | [**YouTube**](https://youtube.com/@marvelahrun)
+  <br> [**Instagram**](https://instagram.com/marvelahrun) | [**YouTube**](https://youtube.com/@marvelahrun)
 
 Design assets provided by [**Zithonic**](https://ko-fi.com/zithonic)
 </div>
