@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/marvelahrun/marvelahrun/blob/main/banner.png"
-       alt="Background"/>
+  <img src="https://github.com/marvelahrun/marvelahrun/blob/main/banner.png" alt="Background"/>
 
-Follow me on:
-  <br> [**Instagram**](https://instagram.com/marvelahrun){:target="_blank" rel="noopener noreferrer"} | [**YouTube**](https://youtube.com/@marvelahrun){:target="_blank" rel="noopener noreferrer"}
+  <p>Follow me on:</p>
+  <a href="https://instagram.com/marvelahrun" target="_blank"><strong>Instagram</strong></a> | 
+  <a href="https://youtube.com/@marvelahrun" target="_blank"><strong>YouTube</strong></a>
 
-Design assets are provided by [**Zithonic**](https://ko-fi.com/zithonic)
+  <p>Design assets are provided by <a href="https://ko-fi.com/zithonic" target="_blank"><strong>Zithonic</strong></a></p>
 </div>
